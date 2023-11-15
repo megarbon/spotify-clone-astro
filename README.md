@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene un clon del popular servicio de música Spotify construido utilizando Astro, un moderno generador de sitios front-end que ofrece rendimiento increíblemente rápido. Es una herramienta educativa diseñada para aquellos interesados en aprender cómo se construyen aplicaciones web modernas utilizando Astro. Creado siguiendo un directo de don Miguel Angel Duran (@Midudev).
+Este repositorio contiene un clon del popular servicio de música Spotify construido utilizando Astro, un moderno generador de sitios front-end que ofrece rendimiento increíblemente rápido. Es una herramienta educativa diseñada para aquellos interesados en aprender cómo se construyen aplicaciones web modernas utilizando Astro. Creado siguiendo un directo de don Miguel Angel Duran [@Midudev](https://twitter.com/midudev?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
 ## Características
 
@@ -14,7 +14,10 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
 ## Tecnologías utilizadas
 
 - [Astro](https://astro.build/)
-- [Otros frameworks y bibliotecas relevantes]
+- [Svelte](https://svelte.dev/)
+- [React](https://react.dev/)
+- [Tailwind](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Instalación
 
